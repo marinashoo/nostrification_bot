@@ -89,3 +89,6 @@
 
 ## Скриншоты проекта
 
+1. [скриншот 1]
+(https://github.com/marinashoo/nostrification_bot/blob/79571798bf79df066a92482c2f376a6f949428c1/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%204.png)
+
